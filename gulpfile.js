@@ -8,6 +8,8 @@ var dependencies = [
     'react',
     'react/addons',
     'react-router',
+    'react-bootstrap',
+    'react-dom'
 ];
 
 // Extending the default config factory

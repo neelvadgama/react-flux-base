@@ -25,7 +25,7 @@ configFactory.getBrowserifyConfig = function(overrides) {
         {
             opts: babelify,
             tr: {
-                presets: ["es2015", "react"],
+                presets: ["es2015", "react", "stage-0"],
             }
         },
         {
