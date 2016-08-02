@@ -1,0 +1,45 @@
+{
+  "name": "react-flux-base",
+  "version": "0.0.0",
+  "description": "Base template for react project with flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neel Vadgama",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-router": "^2.6.1",
+    "gulp": "^3.9.1",
+    "flux": "^2.1.1",
+    "debug": "^2.2.0",
+    "classnames": "^2.2.5",
+    "babelify": "^7.3.0",
+    "envify": "^3.4.1",
+    "stringify": "^5.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "gulp-sourcemaps": "^1.6.0",
+    "browserify": "^13.1.0",
+    "watchify": "^3.7.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-uglify": "^2.0.0",
+    "vinyl-source-stream2": "^0.1.1",
+    "browser-sync": "^2.14.0",
+    "connect-modrewrite": "^0.9.0",
+    "run-sequence": "^1.2.2",
+    "del": "^2.2.1",
+    "gulp-rev": "^7.1.0",
+    "gulp-usemin": "^0.3.23",
+    "through2": "^2.0.1",
+    "react-bootstrap": "^0.30.1",
+    "bootstrap-sass": "^3.3.7",
+    "es6-promise": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
